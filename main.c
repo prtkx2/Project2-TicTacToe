@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-char grid[3][3]={{'_','_','_'},{'_','_','_'},{'_','_','_'},};
+char grid[3][3]={{'_','_','_'},{'_','_','_'},{'_','_','_'}};
 void input();
 char p1='X';
 void print_board();
